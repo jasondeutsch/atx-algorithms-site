@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Austin Aglorithms Meetup
 
 You can use the [editor on GitHub](https://github.com/jasondeutsch/atx-algorithms-site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
