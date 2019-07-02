@@ -4,16 +4,14 @@ You can use the [editor on GitHub](https://github.com/jasondeutsch/atx-algorithm
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Next Meetup
+# Location
+# Want to Speak?
 
 ```markdown
 Syntax highlighted code block
 
-# Next Meetup
-# Location
-# Want to Speak?
+
 
 - Bulleted
 - List
