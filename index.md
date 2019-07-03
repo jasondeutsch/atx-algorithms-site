@@ -1,4 +1,4 @@
-# About Austin Aglorithms Meetup
+# About Austin Algorithms Meetup
 
 We're a group interesed in learning and discuss all things algorithms. 
 
